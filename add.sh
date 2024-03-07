@@ -1,5 +1,10 @@
 #! /bin/bash
+<<<<<<< HEAD
 /modified
+=======
+/commit1
+commit2
+>>>>>>> 9a1d254 (commit2)
 a=$(( 4 + 5 ))
 echo $a
 a=$((8-5))
