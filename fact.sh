@@ -1,5 +1,5 @@
 #!/bin/bash
-
+//stash
 echo "Enter a positive integer: "
 read n
 factorial=1
@@ -11,4 +11,4 @@ do
 done
 
 echo "The factorial of $n is $factorial"
-
+hi
